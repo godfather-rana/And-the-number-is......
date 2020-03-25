@@ -1,2 +1,1 @@
-# ANN-on-MNIST-dataset-Got-99.86-accuracy-and-then-capturing-image-for-prediction-using-openCV...
-Trained Artificial Neural Network on MNIST dataset and then using openCV captured image which I predicted using the trained ANN model.
+#### Trained an Artificial Neural Network on MNIST dataset and then used openCV to capture live image from the webcam and feed that image to the trained ANN model to predict the output.
